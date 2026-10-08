@@ -1,0 +1,14 @@
+{
+  "name": "compy-cpu-pipeline-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "An interactive five-stage CPU pipeline simulator.",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
